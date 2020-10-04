@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/aarthikrao/jumpAndShoot/models"
+	"github.com/MuratSs/basic-shotter-game-server/models"
 )
 
 const maxLives = 5
