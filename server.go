@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/aarthikrao/jumpAndShoot/objects"
+	"github.com/MuratSs/basic-shotter-game-server/objects"
 
 	"github.com/gorilla/websocket"
 )
